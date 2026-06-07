@@ -21,7 +21,7 @@ export function Navigation() {
           {/* Brand */}
           <div className="flex items-center gap-6">
             <span className="text-base font-semibold tracking-tight">
-              DotDigital Manager 
+              DotDigital Companion
             </span>
 
             {/* Desktop nav */}
