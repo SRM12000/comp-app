@@ -93,6 +93,46 @@ export const PREDEFINED_DATA_FIELDS: DataField[] = [
     visibility: "Private"
   },
   {
+    name: "DECLINEDOPCODE",
+    type: "String",
+    visibility: "Private"
+  },
+  {
+    name: "DECLINEDSERDATE",
+    type: "Date",
+    visibility: "Private"
+  },
+  {
+    name: "DECLINEDSERDESC",
+    type: "String",
+    visibility: "Private"
+  },
+  {
+    name: "DECLINEDMAKE",
+    type: "String",
+    visibility: "Private"
+  },
+  {
+    name: "DECLINEDMODEL",
+    type: "String",
+    visibility: "Private"
+  },
+  {
+    name: "DECLINEDMODELYEAR",
+    type: "Numeric",
+    visibility: "Private"
+  },
+  {
+    name: "DECLINEDTRIM",
+    type: "String",
+    visibility: "Private"
+  },
+  {
+    name: "DECLINEDVIN",
+    type: "String",
+    visibility: "Private"
+  },
+  {
     name: "DISCLAIMERTEXTSMA",
     type: "String",
     visibility: "Private"
